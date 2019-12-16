@@ -5,6 +5,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## Unreleased
 - Add Player option mixWithOthers
+- Add ability to override iOS audio session category
 
 ## [2.0.2] - 2019-07-09
 ### Added

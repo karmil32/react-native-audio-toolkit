@@ -33,6 +33,10 @@ Media methods
       // with sounds being played back by this module. If this is not set, playback
       // of audio will stop other sources
       mixWithOthers : boolean (default: False)
+      
+      // (iOS only) Define the audio session category
+      // Options: Playback, Ambient and SoloAmbient
+      category : PlaybackCategory (default: PlaybackCategory.Playback)
     }
     ```
 
